@@ -1,0 +1,4 @@
+body { background: #f0f2f5; font-family: sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; }
+.card { background: white; padding: 20px; border-radius: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 300px; }
+#user-img { width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #007bff; }
+button { margin-top: 20px; padding: 10px; cursor: pointer; background: #007bff; color: white; border: none; border-radius: 5px; width: 100%; }
